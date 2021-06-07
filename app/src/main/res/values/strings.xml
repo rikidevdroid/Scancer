@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scancer</string>
+    <string name="title_home">اسکن</string>
+    <string name="title_dashboard">اخبار</string>
+    <string name="title_notifications">پروفایل</string>
+
+    <string name="register">ثبت نام</string>
+    <string name="login_email_hint">ایمیل</string>
+    <string name="login_password_hint">کلمه عبور</string>
+    <string name="signup_login_hint">ثبت نام کرده اید؟ وارد شوید.</string>
+    <string name="login_signup_hint">اکانت ندارید؟ ثبت نام کنید.</string>
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
